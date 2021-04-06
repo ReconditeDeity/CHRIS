@@ -1,2 +1,2 @@
 # CHRIS
-Cosmic Hierarchically Recondite Interactive Simulation
+Cosmic Heuristical Recondite Interactive Simulation
